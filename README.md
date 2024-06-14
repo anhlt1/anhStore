@@ -7,4 +7,28 @@
 
 ![Login](https://github.com/anhlt1/anhStore/blob/master/uploads/signin.png)
 
+![Logout](https://github.com/anhlt1/anhStore/blob/master/uploads/signout.png)
 
+![Home](https://github.com/anhlt1/anhStore/blob/master/uploads/home1.png)
+
+![Home](https://github.com/anhlt1/anhStore/blob/master/uploads/home2.png)
+
+![Shop](https://github.com/anhlt1/anhStore/blob/master/uploads/shop.png)
+
+![Cart](https://github.com/anhlt1/anhStore/blob/master/uploads/cart.png)
+
+![Favorites](https://github.com/anhlt1/anhStore/blob/master/uploads/favorite.png)
+
+![Product Details](https://github.com/anhlt1/anhStore/blob/master/uploads/product_details.png)
+
+<br />
+<h3>Admin</h3>
+<br />
+
+![]()
+
+![]()
+
+![]()
+
+![]()
