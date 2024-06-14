@@ -7,7 +7,7 @@
 
 ![Login](https://github.com/anhlt1/anhStore/blob/master/uploads/signin.png)
 
-![Logout](https://github.com/anhlt1/anhStore/blob/master/uploads/signout.png)
+![Logout](https://github.com/anhlt1/anhStore/blob/master/uploads/signup.png)
 
 ![Home](https://github.com/anhlt1/anhStore/blob/master/uploads/home1.png)
 
@@ -21,14 +21,20 @@
 
 ![Product Details](https://github.com/anhlt1/anhStore/blob/master/uploads/product_details.png)
 
+![Shipping](https://github.com/anhlt1/anhStore/blob/master/uploads/shipping.png)
+
+![Checkout](https://github.com/anhlt1/anhStore/blob/master/uploads/checkout.png)
+
 <br />
 <h3>Admin</h3>
 <br />
 
-![]()
+![Manage Product](https://github.com/anhlt1/anhStore/blob/master/uploads/all_products.png)
 
-![]()
+![Manage Category](https://github.com/anhlt1/anhStore/blob/master/uploads/create_category.png)
 
-![]()
+![Create Product](https://github.com/anhlt1/anhStore/blob/master/uploads/create_product.png)
 
-![]()
+![Manage User](https://github.com/anhlt1/anhStore/blob/master/uploads/manage_user.png)
+
+![Manage Orders](https://github.com/anhlt1/anhStore/blob/master/uploads/manage_order.png)
